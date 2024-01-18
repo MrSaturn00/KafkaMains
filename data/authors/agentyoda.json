@@ -1,0 +1,8 @@
+{
+    "name": "AgentYoda",
+    "image" : "img/yoda.png",
+    "bio": "Guide Writer",
+    "social": [
+        { "twitch": "https://www.twitch.tv/agentyoda" }
+    ]
+}

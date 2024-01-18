@@ -1,0 +1,9 @@
+{
+    "name": "MrSaturn",
+    "image" : "img/saturn.jpg",
+    "bio": "Developer",
+    "social": [
+        { "twitter": "https://twitter.com/mrsaturn00" },
+        { "github": "https://github.com/mrsaturn00" }
+    ]
+}
