@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "KafkaMains Docs"
+title = "KafkaMains"
 
 [params]
   displayName = "EN"
@@ -9,7 +9,7 @@ title = "KafkaMains Docs"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/kkm_icon.png"
-  secondaryLogo = "img/secondary-logo.png"
+  secondaryLogo = "img/kkm_icon.png"
   description = "The Official KafkaMains Website"
   copyright = "Copy, _right?_ :thinking_face:"
 

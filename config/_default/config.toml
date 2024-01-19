@@ -25,7 +25,7 @@ buildFuture = false
   series = "series"
 
 [sitemap]
-  changefreq = 'daily'
+  changefreq = 'always'
   filename = 'sitemap.xml'
   priority = 0.5
 
