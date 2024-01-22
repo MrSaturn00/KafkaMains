@@ -1,8 +1,8 @@
 {
     "name": "AgentYoda",
     "image" : "img/Yoda.png",
-    "bio": "Guide Writer",
+    "bio": "Guide Writer & Theorycrafter",
     "social": [
-        { "twitch": "https://www.twitch.tv/agentyoda" }
+        { "link": "https://www.op.gg/summoners/na/THECRUSADECALLS-NA1" }
     ]
 }

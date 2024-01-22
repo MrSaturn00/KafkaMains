@@ -1,0 +1,9 @@
+{
+    "name": "Senpain",
+    "image" : "img/senpain.png",
+    "bio": "KafkaMains Boss",
+    "social": [
+        { "discord": "https://discord.gg/kafkamains" },
+        { "twitter": "https://twitter.com/kafkamains" }
+    ]
+}

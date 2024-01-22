@@ -18,8 +18,8 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "img/kafka_59.jpg" # used as default for background images 
-defaultFeaturedImage = "img/kafka_59.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "img/kaff_wall_7.png" # used as default for background images 
+defaultFeaturedImage = "img/kaff_wall_7.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -37,7 +37,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/kafka_59.jpg" # used in: hero, and card
+  homepageImage = "img/kaff_wall_4.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
