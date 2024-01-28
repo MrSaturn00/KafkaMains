@@ -116,13 +116,13 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey: "AIzaSyDDurQt78gNas5EklZTAlix1FhyZH6bPnM",
-  authDomain: "kafkamains-74463.firebaseapp.com",
-  projectId: "kafkamains-74463",
-  storageBucket: "kafkamains-74463.appspot.com",
-  messagingSenderId: "168724951528",
-  appId: "1:168724951528:web:942c2c4b1177574a2bb45d",
-  measurementId: "G-B0EG066GRV"
+  apiKey = "AIzaSyDDurQt78gNas5EklZTAlix1FhyZH6bPnM"
+  authDomain = "kafkamains-74463.firebaseapp.com"
+  projectId = "kafkamains-74463"
+  storageBucket = "kafkamains-74463.appspot.com"
+  messagingSenderId = "168724951528"
+  appId = "1:168724951528:web:942c2c4b1177574a2bb45d"
+  measurementId = "G-B0EG066GRV"
   
 [fathomAnalytics]
   # site = "ABC12345"
