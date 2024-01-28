@@ -10,5 +10,5 @@ cascade:
   tag=h1
   lifeLike=true
 >}}
-Watch for Event Updates & Recaps Here!
+Read Event Updates & Recaps Here!
 {{< /typeit >}}
