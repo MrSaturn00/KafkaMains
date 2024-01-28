@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Documentation"
+  name = "Kafka Guide"
   pageRef = "docs"
   weight = 10
 
