@@ -116,14 +116,27 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey: "AIzaSyDDurQt78gNas5EklZTAlix1FhyZH6bPnM",
-  authDomain: "kafkamains-74463.firebaseapp.com",
-  projectId: "kafkamains-74463",
-  storageBucket: "kafkamains-74463.appspot.com",
-  messagingSenderId: "168724951528",
-  appId: "1:168724951528:web:942c2c4b1177574a2bb45d",
-  measurementId: "G-B0EG066GRV"
+ // Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY",
+  authDomain: "blowfish-21fff.firebaseapp.com",
+  projectId: "blowfish-21fff",
+  storageBucket: "blowfish-21fff.appspot.com",
+  messagingSenderId: "60108104191",
+  appId: "1:60108104191:web:039842ebe1370698b487ca",
+  measurementId: "G-PEDMYR1V0K"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
