@@ -319,6 +319,7 @@ Silver Wolf is a very strong character in demand for many teams; as such, when i
 As noted, even if we do use Silver Wolf for Kafka’s team, unless SIlver Wolf has very high eidolons (in which case, Silver Wolf tends to dominate Honkai: Star Rail content in general), other teams can still surpass Silver Wolf in clear speed. That being said, as a general-purpose unit against single target enemies, Silver Wolf/Kafka teams are expected to be consistently strong.
 
 **Team Core**
+
 {{< gallery >}}
   <img src="gallery/05.png" class="grid-w30" />
   <img src="gallery/13.png" class="grid-w30" />
@@ -354,6 +355,7 @@ The rotation is very simple: Kafka uses her Skill whenever possible, Silver Wolf
 Pela’s focus is on enemy team-wide DEF reduction; this naturally makes her a strong contender for any fights with multiple enemies and allows her to synergize well with Damage over Time characters who deal damage to multiple targets well, such as Kafka, Sampo or Serval. As her DEF reduction is less than Silver Wolf’s DEF reduction, and since Silver Wolf has Type and All RES reduction that Pela doesn’t have, her teams are not as fast against single target enemies; however, since all of Silver Wolf’s debuffs are single target and Pela’s DEF reduction is enemy team-wide, Pela has an advantage over clearing multiple enemies.
 
 **Team Core**
+
 {{< gallery >}}
   <img src="gallery/05.png" class="grid-w30" />
   <img src="gallery/09.png" class="grid-w30" />
@@ -396,6 +398,7 @@ In short, Asta’s full uptime team has a very strict and challenging rotation t
 **Asta requires E4+ to maintain full ult uptime**, which is essential to this build; without E4+ and the corresponding full Ultimate uptime, the Kafka/Asta team is not as strong and may fall closer to being merely viable. She also requires E6 to maintain full charges against a non-Fire weak single target enemy, but that is not strictly required for this build to function.
 
 **Team Core**
+
 {{< gallery >}}
   <img src="gallery/05.png" class="grid-w30" />
   <img src="gallery/01.png" class="grid-w30" />
@@ -505,6 +508,7 @@ Ruan Mei, our first 5 star limited Harmony unit, is as powerful as one might exp
 As of her release, she will certainly be part of Kafka’s strongest teams. As one can simply replace Asta, Pela, or Silver Wolf with Ruan Mei, that makes her very easy to slot into existing Kafka compositions. Like these other teams, the core consists of Kafka and Ruan Mei with a flexible spot for another Damage over Time unit—ideally, this will be a flex DoT unit that the enemy is weak to. For Physical weak enemies, swap in Luka; for Wind weak enemies, swap in Sampo; et cetera.
 
 **Team Core**
+
 {{< gallery >}}
   <img src="gallery/05.png" class="grid-w30" />
   <img src="gallery/10.png" class="grid-w30" />
@@ -584,6 +588,7 @@ This means that, as long as we can reliably break enemy Toughness before they’
 Overall, if one is to run a sustainless Ruan Mei team, care must be had to ensure the team is able to break the enemy Toughness quickly, and that the team can survive any unavoidable damage. If these conditions are met, a sustainless team can lead to incredible damage output, given that the sustain is now replaced with a buffer/damage unit, even to the point of clearing Memory of Chaos upper floors within a single rotation.
 
 **Team Core**
+
 {{< gallery >}}
   <img src="gallery/05.png" class="grid-w30" />
   <img src="gallery/10.png" class="grid-w30" />
@@ -627,6 +632,7 @@ If we consider teams like Kafka/Pela/Sampo to be very strong into multiple enemi
 There is not as much data regarding the strength of these teams, as while they do benefit from stacking Sampo’s DoT taken debuff and Luka’s damage taken debuff, they lack the bonus SPD and ATK% from the Asta team, as well as the DEF reduction and Type/All RES reduction from the Pela and Silver Wolf teams. But they benefit from Kafka being able to trigger even more Damage over Time effects, as well as from the above debuffs. Some preliminary theory-crafting suggests that this team is close in strength to the previously mentioned teams, though as a “jack of all trades, master of none”—neither stronger in single target nor multiple target scenarios.
 
 **Team Core**
+
 {{< gallery >}}
   <img src="gallery/05.png" class="grid-w30" />
 {{< /gallery >}}
@@ -682,6 +688,7 @@ That being said, for the current fights in the game, player experience will not 
 This team consists of Kafka as our only Damage over Time unit with two support units and a sustain unit—the idea being for Kafka to carry the rest of the team with her buffed Shock damage, which she procs multiple times with her Skill and Ultimate. Similar to Serval, as noted above, this team does tend to lag behind in damage compared to the other Kafka teams; however, also like Serval, for the current enemy HP levels in Memory of Chaos, this team is more than enough to comfortably wipe them.
 
 **Team Core**
+
 {{< gallery >}}
   <img src="gallery/05.png" class="grid-w30" />
   <img src="gallery/20.png" class="grid-w30" />
