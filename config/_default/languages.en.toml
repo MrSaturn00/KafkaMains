@@ -23,6 +23,5 @@ title = "KafkaMains"
    { discord = "https://discord.gg/kafkamains" },
    { reddit = "https://reddit.com/r/kafkamains" },
    { twitter = "https://twitter.com/kafka_daily" },
-   { x-twitter = "https://twitter.com/kafkamains" },
-   { ko-fi = "https://ko-fi.com/username" }
+   { x-twitter = "https://twitter.com/kafkamains" }
    ]
