@@ -1,10 +1,12 @@
 {
     "name": "Josiichan",
-    "image" : "img/kafka_84.png",
+    "image" : "img/josii.png",
     "bio": "Art Team Lead & Vtuber",
     "social": [
         { "discord": "https://discord.gg/Tx72fw7dPc" },
         { "twitch": "https://www.twitch.tv/josiichaanvt" },
-        { "tiktok": "https://www.tiktok.com/@josiichaan"}
+        { "tiktok": "https://www.tiktok.com/@josiichaan"},
+        { "x-twitter": "https://x.com/josiichaan?t=CDsjLCGELULFnu46HB_dhA&s=09"},
+        { "Instagram": "https://www.instagram.com/josiichaan.artz?igsh=Y2xvMDk3azk0aGwx"}
     ]
 }
