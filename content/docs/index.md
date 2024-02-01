@@ -6,6 +6,7 @@ showauthor: false
 authors:
   - 'agentyoda'
 showAuthorsBadges : false
+showPagination: false
 ---
 
 ## Introduction
