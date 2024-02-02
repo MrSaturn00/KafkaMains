@@ -326,8 +326,9 @@ We have 8 events this patch, 2.0
 </table>
 
 {{< gallery >}}
-  <img src="gallery/01.png" class="grid-w100 " />
+  <img src="gallery/01.jpg" class="grid-w100" />
 {{< /gallery >}}
+
 
 # Quality Of Life
 
@@ -349,4 +350,6 @@ We have 8 events this patch, 2.0
 
 * You can now set up to what level you want to upgrade your relic. And it now shows the usability rate of recommended sets. Relic Salvaging also has been improved.
 
-  <img src="gallery/02.png" class="grid-w100 " />
+{{< gallery >}}
+  <img src="gallery/02.jpg" class="grid-w100" />
+{{< /gallery >}}
