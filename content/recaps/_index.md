@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "Recaps"
 cascade:
   showDate: false
   showAuthor: false
@@ -10,5 +10,5 @@ cascade:
   tag=h1
   lifeLike=true
 >}}
-Catch Up On Events!
+Read Detailed Recaps Here!
 {{< /typeit >}}

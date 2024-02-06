@@ -1,6 +1,7 @@
 ---
 title: "About Us! The Team Members! "
 showauthor: false
+showzenmode: false
 date: '2024-01-20'
 authors:
   - 'senpain'
@@ -11,6 +12,7 @@ authors:
   - 'josii'
   - 'chenz'
   - 'agentyoda'
-showAuthorsBadges : false 
+showAuthorsBadges : false
+showPagination: false
+showtableofcontents: false
 ---
-

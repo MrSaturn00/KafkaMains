@@ -1,0 +1,12 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/PFDinTextPro-Medium.ttf');
+}
+
+html {
+    font-family: font;
+}
+
+html {
+    font-size: 13pt;
+  }

@@ -13,14 +13,20 @@
 [[main]]
   name = "Kafka Guide"
   pageRef = "docs"
-  weight = 10
+  weight = 30
 
 [[main]]
   name = "Events"
   pageRef= "events"
+  weight = 10
+
+[[main]]
+  name = "Recaps"
+  pageRef = "recaps"
   weight = 20
+
 
 [[main]]
   name = "About Us"
   pageRef = "about"
-  weight = 30
+  weight = 40
