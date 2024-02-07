@@ -1,142 +1,112 @@
-# -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/configuration/#theme-parameters
-
 colorScheme = "princess"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "dark"
 autoSwitchAppearance = true
-
 enableSearch = true
 enableCodeCopy = true
-
-# mainSections = ["section1", "section2"]
-# robots = ""
-
 disableImageOptimization = false
 disableTextInHeader = false
-
-defaultBackgroundImage = "img/kaff_wall_7.png" # used as default for background images 
-defaultFeaturedImage = "img/kaff_wall_7.png" # used as default for featured images in all articles
-
+defaultBackgroundImage = "img/kaff_wall_7.png"
+defaultFeaturedImage = "img/kaff_wall_7.png"
 highlightCurrentMenuArea = true
-smartTOC = true
-smartTOCHideUnfocusedChildren = false
+smartTOC = false
+smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+layout = "fixed"
 
 [footer]
-  showMenu = true
-  showCopyright = true
-  showThemeAttribution = false
-  showAppearanceSwitcher = true
-  showScrollToTop = true
+showMenu = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/kaff_wall_4.png" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
-  cardView = false
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+layout = "background"
+homepageImage = "img/kaff_wall_4.png"
+showRecent = false
+showRecentItems = 5
+showMoreLink = false
+showMoreLinkDest = "/posts"
+cardView = false
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
 
 [article]
-  showDate = true
-  showViews = true
-  showLikes = true
-  showDateUpdated = true
-  showAuthor = true
-  showHero = true
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
-  showReadingTime = true
-  showTableOfContents = true
-  # showRelatedContent = false
-  # relatedContentLimit = 3
-  showTaxonomies = false
-  showAuthorsBadges = true
-  showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = false
+showDate = true
+showViews = true
+showLikes = true
+showDateUpdated = true
+showAuthor = true
+showHero = true
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = false
+showAuthorsBadges = true
+showWordCount = true
+showZenMode = false
 
 [list]
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showSummary = false
-  showViews = true
-  showLikes = true
-  showTableOfContents = true
-  showCards = true
-  groupByYear = false
-  cardView = true
-  cardViewScreenWidth = false
-  constrainItemsWidth = false
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
+showSummary = false
+showViews = true
+showLikes = true
+showTableOfContents = true
+showCards = true
+groupByYear = false
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = false
 
 [sitemap]
-  excludedKinds = ["taxonomy", "term"]
+excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
-  showTermCount = true
-  showHero = false
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  cardView = false
+showTermCount = true
+showHero = false
+heroStyle = "background"
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
 
 [term]
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  groupByYear = false
-  cardView = false
-  cardViewScreenWidth = false
+showHero = true
+heroStyle = "background"
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyDDurQt78gNas5EklZTAlix1FhyZH6bPnM"
-  authDomain = "kafkamains-74463.firebaseapp.com"
-  projectId = "kafkamains-74463"
-  storageBucket = "kafkamains-74463.appspot.com"
-  messagingSenderId = "168724951528"
-  appId = "1:168724951528:web:942c2c4b1177574a2bb45d"
-  measurementId = "G-B0EG066GRV"
-  
+apiKey = "AIzaSyDDurQt78gNas5EklZTAlix1FhyZH6bPnM"
+authDomain = "kafkamains-74463.firebaseapp.com"
+projectId = "kafkamains-74463"
+storageBucket = "kafkamains-74463.appspot.com"
+messagingSenderId = "168724951528"
+appId = "1:168724951528:web:942c2c4b1177574a2bb45d"
+measurementId = "G-B0EG066GRV"
+
 [fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
 
 [verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
